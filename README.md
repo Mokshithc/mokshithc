@@ -18,3 +18,17 @@ Hi there, moki here<br>An aspiring fullstack webdev
 [![](https://visitcount.itsvg.in/api?id=mokshithc&icon=5&color=0)](https://visitcount.itsvg.in)
 
 
+
+
+
+
+
+
+
+<p><img align="left" src="https://github-readme-stats-two-phi-88.vercel.app/api/top-langs?username=mokshithc&show_icons=true&theme=dark&locale=en&layout=compact" alt="mokshithc" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats-two-phi-88.vercel.app/api?username=mokshithc&show_icons=true&theme=dark&locale=en&hide=stars,issues" alt="mokshithc" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mokshithc&theme=dark" alt="mokshithc" /></p>
+
+
