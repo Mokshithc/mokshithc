@@ -25,7 +25,7 @@
   <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mokshithc&show_icons=true&theme=dark&locale=en" alt="mokshithc" /></p>
     <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mokshithc&layout=compact&theme=dark&border_radius=5" height="170" alt="Top languages" />
+ <img src="https://streak-stats.demolab.com?user=Mokshithc&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="Streak graph" />
   <br/>
 
 
