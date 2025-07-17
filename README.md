@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mokshithc&label=Profile%20views&color=0e75b6&style=flat" alt="mokshithc" /> </p>
 
-<p align="center"> follow me on X <a href="https://twitter.com/mokic27" target="blank"></a> </p>
+<p align="center"> follow me on  <a href="https://twitter.com/mokic27" target="blank"> X </a> </p>
 
 <div align="center">- 📫 How to reach me **cmokshith27@gmail.com**
 </div>
