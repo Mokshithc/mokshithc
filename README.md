@@ -23,10 +23,9 @@
   <br/>
     <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mokshithc&layout=compact&theme=dark&border_radius=5" height="170" alt="Top languages" />
-  <br /><br />
-  <br/>
-   <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mokshithc&layout=compact&theme=dark&border_radius=0" height="170" alt="Top languages" />
+  <br />
+  <br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats-two-phi-88.vercel.app/api?username=mokshithc&show_icons=true&theme=dark&locale=en&hide=stars,issues"  /></p>
 
    <br/>
