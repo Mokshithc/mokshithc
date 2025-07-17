@@ -23,7 +23,8 @@
   <br/>
     <br/>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mahesh20dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="Streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh20dev&layout=compact&theme=dark&border_radius=5" height="170" alt="Top languages" />
+  <br /><br />
   <br/>
    <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-two-phi-88.vercel.app/api?username=mokshithc&show_icons=true&theme=dark&locale=en&hide=stars,issues"  /></p>
