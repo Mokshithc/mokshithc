@@ -23,7 +23,7 @@
   <br/>
     <br/>
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mokshithc&show_icons=true&theme=dark&locale=en&layout=compact" alt="mokshithc" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mokshithc&show_icons=true&theme=dark&locale=en&layout=compact" alt="mokshithc" /></p>
   <br/>
    <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-two-phi-88.vercel.app/api?username=mokshithc&show_icons=true&theme=dark&locale=en&hide=stars,issues"  /></p>
