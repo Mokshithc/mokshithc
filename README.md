@@ -22,18 +22,13 @@
   <br/>
     <br/>
 <div align="center">
-    <br/>
-  <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mokshithc&show_icons=true&theme=dark&locale=en&layout=compact" alt="mokshithc" /></p>
   <br/>
    <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mokshithc&show_icons=true&theme=dark&locale=en" alt="mokshithc" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-two-phi-88.vercel.app/api?username=mokshithc&show_icons=true&theme=dark&locale=en&hide=stars,issues"  /></p>
+
     <br/>
    <br/>
  <img src="https://streak-stats.demolab.com?user=Mokshithc&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="Streak graph" />
   <br/>
-   <br/>
-
-
-
 </div>
