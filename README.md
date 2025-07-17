@@ -30,6 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-two-phi-88.vercel.app/api?username=mokshithc&show_icons=true&theme=dark&locale=en&hide=stars,issues"  /></p>
 
    <br/>
- <img src="https://streak-stats.demolab.com?user=Mokshithc&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="Streak graph" />
+<img src="https://streak-stats.demolab.com?user=mokshithc&theme=tokyonight&hide_border=true" alt="mokshithc's GitHub Stats" />
   <br/>
 </div>
