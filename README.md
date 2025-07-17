@@ -25,7 +25,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokshithc&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="mokshithc's GitHub Stats" />
   <br />
   <br />
-<p>&nbsp;<img align="center" src="https://github-readme-stats-two-phi-88.vercel.app/api?username=mokshithc&show_icons=true&hide_border=true&theme=dark&locale=en&hide=stars,issues"  /></p>
+<p>
+  <img align="center" 
+       src="https://github-readme-stats-two-phi-88.vercel.app/api?username=mokshithc&show_icons=true&hide_border=true&theme=dark&locale=en&hide=stars,issues&bg_color=1a1b27" />
+</p>
 
    <br/>
 <img src="https://streak-stats.demolab.com?user=mokshithc&theme=tokyonight&hide_border=true" alt="mokshithc's GitHub Stats" />
