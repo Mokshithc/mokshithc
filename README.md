@@ -23,7 +23,7 @@
   <br/>
     <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh20dev&layout=compact&theme=dark&border_radius=5" height="170" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mokshithc&layout=compact&theme=dark&border_radius=5" height="170" alt="Top languages" />
   <br /><br />
   <br/>
    <br/>
