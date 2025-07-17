@@ -5,8 +5,9 @@
 
 <p align="center"> <a href="https://twitter.com/mokic27" target="blank"><img src="https://img.shields.io/twitter/follow/mokic27?logo=twitter&style=for-the-badge" alt="mokic27" /></a> </p>
 
-- 📫 How to reach me **cmokshith27@gmail.com**
-<div align="center">
+<div align="center">- 📫 How to reach me **cmokshith27@gmail.com**
+</div>
+  <div align="center">
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/mokic27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mokic27" height="30" width="40" /></a>
@@ -27,7 +28,6 @@
    <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-two-phi-88.vercel.app/api?username=mokshithc&show_icons=true&theme=dark&locale=en&hide=stars,issues"  /></p>
 
-    <br/>
    <br/>
  <img src="https://streak-stats.demolab.com?user=Mokshithc&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="Streak graph" />
   <br/>
