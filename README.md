@@ -31,6 +31,6 @@
 </p>
 
    <br/>
-<img src="https://streak-stats.demolab.com?user=mokshithc&theme=tokyonight&hide_border=true" alt="mokshithc's GitHub Stats" />
+<!--<img src="https://streak-stats.demolab.com?user=mokshithc&theme=tokyonight&hide_border=true" alt="mokshithc's GitHub Stats" />
   <br/>
-</div>
+</div>-->
