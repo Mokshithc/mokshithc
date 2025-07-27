@@ -5,7 +5,7 @@
 
 <p align="center">  <a href="https://twitter.com/mokic27" target="blank">follow me on X </a> </p>
 
-<div align="center">--📫 How to reach me <a href="(https://mail.google.com/mail/u/0/#inboxcompose=CllgCJfpKVDBPrHrTdCvKzPFqknpGZQNKwvdbzglBbGdxbdnrcJRDTvCPzshNFvfrtrhxvnRfPg)">Cmokshith27@gmail.com</a>
+<div align="center">--📫 How to reach me <a href="https://mail.google.com/mail/u/0/#inboxcompose=CllgCJfpKVDBPrHrTdCvKzPFqknpGZQNKwvdbzglBbGdxbdnrcJRDTvCPzshNFvfrtrhxvnRfPg">Cmokshith27@gmail.com</a>
 </div>
   <div align="center">
 <h3 align="center">Connect with me:</h3>
