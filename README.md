@@ -3,14 +3,14 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mokshithc&label=Profile%20views&color=0e75b6&style=flat" alt="mokshithc" /> </p>
 
-<p align="center">  <a href="https://twitter.com/mokic27" target="blank">follow me on X </a> </p>
-
+<!--<p align="center">  <a href="https://twitter.com/mokic27" target="blank">follow me on X </a> </p>
+-->
 <div align="center">--📫 How to reach me <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">Cmokshith27@gmail.com</a>
 </div>
   <div align="center">
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/mokshithc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mokshithc" height="30" width="40" /></a>
+<!--<a href="https://linkedin.com/in/mokshithc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mokshithc" height="30" width="40" /></a>-->
 </p>
 </div>
 <div align="center">
