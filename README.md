@@ -34,3 +34,7 @@
 <img src="https://streak-stats.demolab.com?user=mokshithc&theme=tokyonight&hide_border=true" alt="mokshithc's GitHub Stats" />
   <br/>
 </div>
+
+<div>
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+</div>
